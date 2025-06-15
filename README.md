@@ -26,3 +26,10 @@ The repository will include:
 - 🏷️ Pseudo-labeling strategy  
 - 🧪 Evaluation scripts for STS metrics  
 - 📊 Trained models and results  
+
+### ⚠️ Important Notes:
+1. **Code Structure**:  
+This repository provides core functionality but is not fully organized. For production use, we recommend restructuring the codebase to fit your specific pipeline and quality standards.
+
+2. **SAM-Med2D Usage**:  
+The SAM-Med2D model referenced in our paper was accessed exclusively through the official [SAM web interface](https://segment-anything.com/demo) during experiments. **No SAM-related code is included in this repository.**
